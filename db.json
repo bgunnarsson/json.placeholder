@@ -1,14 +1,5 @@
 {
-    "orders": [
-        {
-            "number": "1234567890",
-            "total": 10590,
-            "currency": "kr"
-        },
-        {
-            "number": "0987654321",
-            "total": 10590,
-            "currency": "kr"
-        }
-    ]
+    "number": "1234567890",
+    "total": 10590,
+    "currency": "kr"
 }
